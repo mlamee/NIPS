@@ -19,12 +19,12 @@ I run two separate clusterings: 1. on all words 2. on calculated embeddings of p
 In summary, .py file can be run as following:
 
 Example:  python NIPS-IBM.py '/Users/mlamee/Downloads/IBM/output/Papers.csv' 1 1 5 1000 > log.txt
- log.txt contains all the terminal outputs of the run.
- The first argument: filename is the main data file
- The 2nd argument is a boolen variable (1/0) that determines if stopwords should be removed (default=1)
- The 3rd argument is a boolen variable (1/0) that determines if words should be lemmatized (default=1)
- The 4th argument is an integer and determines the window size of the FastTex embeddings (default=5)
- The 5th argument is an integer and determines the size of embedding vectors (default=1000)
+ - log.txt contains all the terminal outputs of the run.
+ - The first argument: filename is the main data file
+ - The 2nd argument is a boolen variable (1/0) that determines if stopwords should be removed (default=1)
+ - The 3rd argument is a boolen variable (1/0) that determines if words should be lemmatized (default=1)
+ - The 4th argument is an integer and determines the window size of the FastTex embeddings (default=5)
+ - The 5th argument is an integer and determines the size of embedding vectors (default=1000)
 
 Overall, along the code there are many functions with many parameters that can be set by the user. However, in the main function I decided to only have the option for a handful of them. 
 Also, I'd like to note that, for sure, this is not the best method for assigning values to arguments from terminal.
