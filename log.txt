@@ -1,0 +1,620 @@
+Shape of data file:  (403, 6)
+Column titles:  Index([u'Id', u'Title', u'EventType', u'PdfName', u'Abstract', u'PaperText'], dtype='object')
+Pre-processing document  1  of  403
+Pre-processing document  2  of  403
+Pre-processing document  3  of  403
+Pre-processing document  4  of  403
+Pre-processing document  5  of  403
+Pre-processing document  6  of  403
+Pre-processing document  7  of  403
+Pre-processing document  8  of  403
+Pre-processing document  9  of  403
+Pre-processing document  10  of  403
+Pre-processing document  11  of  403
+Pre-processing document  12  of  403
+Pre-processing document  13  of  403
+Pre-processing document  14  of  403
+Pre-processing document  15  of  403
+Pre-processing document  16  of  403
+Pre-processing document  17  of  403
+Pre-processing document  18  of  403
+Pre-processing document  19  of  403
+Pre-processing document  20  of  403
+Pre-processing document  21  of  403
+Pre-processing document  22  of  403
+Pre-processing document  23  of  403
+Pre-processing document  24  of  403
+Pre-processing document  25  of  403
+Pre-processing document  26  of  403
+Pre-processing document  27  of  403
+Pre-processing document  28  of  403
+Pre-processing document  29  of  403
+Pre-processing document  30  of  403
+Pre-processing document  31  of  403
+Pre-processing document  32  of  403
+Pre-processing document  33  of  403
+Pre-processing document  34  of  403
+Pre-processing document  35  of  403
+Pre-processing document  36  of  403
+Pre-processing document  37  of  403
+Pre-processing document  38  of  403
+Pre-processing document  39  of  403
+Pre-processing document  40  of  403
+Pre-processing document  41  of  403
+Pre-processing document  42  of  403
+Pre-processing document  43  of  403
+Pre-processing document  44  of  403
+Pre-processing document  45  of  403
+Pre-processing document  46  of  403
+Pre-processing document  47  of  403
+Pre-processing document  48  of  403
+Pre-processing document  49  of  403
+Pre-processing document  50  of  403
+Pre-processing document  51  of  403
+Pre-processing document  52  of  403
+Pre-processing document  53  of  403
+Pre-processing document  54  of  403
+Pre-processing document  55  of  403
+Pre-processing document  56  of  403
+Pre-processing document  57  of  403
+Pre-processing document  58  of  403
+Pre-processing document  59  of  403
+Pre-processing document  60  of  403
+Pre-processing document  61  of  403
+Pre-processing document  62  of  403
+Pre-processing document  63  of  403
+Pre-processing document  64  of  403
+Pre-processing document  65  of  403
+Pre-processing document  66  of  403
+Pre-processing document  67  of  403
+Pre-processing document  68  of  403
+Pre-processing document  69  of  403
+Pre-processing document  70  of  403
+Pre-processing document  71  of  403
+Pre-processing document  72  of  403
+Pre-processing document  73  of  403
+Pre-processing document  74  of  403
+Pre-processing document  75  of  403
+Pre-processing document  76  of  403
+Pre-processing document  77  of  403
+Pre-processing document  78  of  403
+Pre-processing document  79  of  403
+Pre-processing document  80  of  403
+Pre-processing document  81  of  403
+Pre-processing document  82  of  403
+Pre-processing document  83  of  403
+Pre-processing document  84  of  403
+Pre-processing document  85  of  403
+Pre-processing document  86  of  403
+Pre-processing document  87  of  403
+Pre-processing document  88  of  403
+Pre-processing document  89  of  403
+Pre-processing document  90  of  403
+Pre-processing document  91  of  403
+Pre-processing document  92  of  403
+Pre-processing document  93  of  403
+Pre-processing document  94  of  403
+Pre-processing document  95  of  403
+Pre-processing document  96  of  403
+Pre-processing document  97  of  403
+Pre-processing document  98  of  403
+Pre-processing document  99  of  403
+Pre-processing document  100  of  403
+Pre-processing document  101  of  403
+Pre-processing document  102  of  403
+Pre-processing document  103  of  403
+Pre-processing document  104  of  403
+Pre-processing document  105  of  403
+Pre-processing document  106  of  403
+Pre-processing document  107  of  403
+Pre-processing document  108  of  403
+Pre-processing document  109  of  403
+Pre-processing document  110  of  403
+Pre-processing document  111  of  403
+Pre-processing document  112  of  403
+Pre-processing document  113  of  403
+Pre-processing document  114  of  403
+Pre-processing document  115  of  403
+Pre-processing document  116  of  403
+Pre-processing document  117  of  403
+Pre-processing document  118  of  403
+Pre-processing document  119  of  403
+Pre-processing document  120  of  403
+Pre-processing document  121  of  403
+Pre-processing document  122  of  403
+Pre-processing document  123  of  403
+Pre-processing document  124  of  403
+Pre-processing document  125  of  403
+Pre-processing document  126  of  403
+Pre-processing document  127  of  403
+Pre-processing document  128  of  403
+Pre-processing document  129  of  403
+Pre-processing document  130  of  403
+Pre-processing document  131  of  403
+Pre-processing document  132  of  403
+Pre-processing document  133  of  403
+Pre-processing document  134  of  403
+Pre-processing document  135  of  403
+Pre-processing document  136  of  403
+Pre-processing document  137  of  403
+Pre-processing document  138  of  403
+Pre-processing document  139  of  403
+Pre-processing document  140  of  403
+Pre-processing document  141  of  403
+Pre-processing document  142  of  403
+Pre-processing document  143  of  403
+Pre-processing document  144  of  403
+Pre-processing document  145  of  403
+Pre-processing document  146  of  403
+Pre-processing document  147  of  403
+Pre-processing document  148  of  403
+Pre-processing document  149  of  403
+Pre-processing document  150  of  403
+Pre-processing document  151  of  403
+Pre-processing document  152  of  403
+Pre-processing document  153  of  403
+Pre-processing document  154  of  403
+Pre-processing document  155  of  403
+Pre-processing document  156  of  403
+Pre-processing document  157  of  403
+Pre-processing document  158  of  403
+Pre-processing document  159  of  403
+Pre-processing document  160  of  403
+Pre-processing document  161  of  403
+Pre-processing document  162  of  403
+Pre-processing document  163  of  403
+Pre-processing document  164  of  403
+Pre-processing document  165  of  403
+Pre-processing document  166  of  403
+Pre-processing document  167  of  403
+Pre-processing document  168  of  403
+Pre-processing document  169  of  403
+Pre-processing document  170  of  403
+Pre-processing document  171  of  403
+Pre-processing document  172  of  403
+Pre-processing document  173  of  403
+Pre-processing document  174  of  403
+Pre-processing document  175  of  403
+Pre-processing document  176  of  403
+Pre-processing document  177  of  403
+Pre-processing document  178  of  403
+Pre-processing document  179  of  403
+Pre-processing document  180  of  403
+Pre-processing document  181  of  403
+Pre-processing document  182  of  403
+Pre-processing document  183  of  403
+Pre-processing document  184  of  403
+Pre-processing document  185  of  403
+Pre-processing document  186  of  403
+Pre-processing document  187  of  403
+Pre-processing document  188  of  403
+Pre-processing document  189  of  403
+Pre-processing document  190  of  403
+Pre-processing document  191  of  403
+Pre-processing document  192  of  403
+Pre-processing document  193  of  403
+Pre-processing document  194  of  403
+Pre-processing document  195  of  403
+Pre-processing document  196  of  403
+Pre-processing document  197  of  403
+Pre-processing document  198  of  403
+Pre-processing document  199  of  403
+Pre-processing document  200  of  403
+Pre-processing document  201  of  403
+Pre-processing document  202  of  403
+Pre-processing document  203  of  403
+Pre-processing document  204  of  403
+Pre-processing document  205  of  403
+Pre-processing document  206  of  403
+Pre-processing document  207  of  403
+Pre-processing document  208  of  403
+Pre-processing document  209  of  403
+Pre-processing document  210  of  403
+Pre-processing document  211  of  403
+Pre-processing document  212  of  403
+Pre-processing document  213  of  403
+Pre-processing document  214  of  403
+Pre-processing document  215  of  403
+Pre-processing document  216  of  403
+Pre-processing document  217  of  403
+Pre-processing document  218  of  403
+Pre-processing document  219  of  403
+Pre-processing document  220  of  403
+Pre-processing document  221  of  403
+Pre-processing document  222  of  403
+Pre-processing document  223  of  403
+Pre-processing document  224  of  403
+Pre-processing document  225  of  403
+Pre-processing document  226  of  403
+Pre-processing document  227  of  403
+Pre-processing document  228  of  403
+Pre-processing document  229  of  403
+Pre-processing document  230  of  403
+Pre-processing document  231  of  403
+Pre-processing document  232  of  403
+Pre-processing document  233  of  403
+Pre-processing document  234  of  403
+Pre-processing document  235  of  403
+Pre-processing document  236  of  403
+Pre-processing document  237  of  403
+Pre-processing document  238  of  403
+Pre-processing document  239  of  403
+Pre-processing document  240  of  403
+Pre-processing document  241  of  403
+Pre-processing document  242  of  403
+Pre-processing document  243  of  403
+Pre-processing document  244  of  403
+Pre-processing document  245  of  403
+Pre-processing document  246  of  403
+Pre-processing document  247  of  403
+Pre-processing document  248  of  403
+Pre-processing document  249  of  403
+Pre-processing document  250  of  403
+Pre-processing document  251  of  403
+Pre-processing document  252  of  403
+Pre-processing document  253  of  403
+Pre-processing document  254  of  403
+Pre-processing document  255  of  403
+Pre-processing document  256  of  403
+Pre-processing document  257  of  403
+Pre-processing document  258  of  403
+Pre-processing document  259  of  403
+Pre-processing document  260  of  403
+Pre-processing document  261  of  403
+Pre-processing document  262  of  403
+Pre-processing document  263  of  403
+Pre-processing document  264  of  403
+Pre-processing document  265  of  403
+Pre-processing document  266  of  403
+Pre-processing document  267  of  403
+Pre-processing document  268  of  403
+Pre-processing document  269  of  403
+Pre-processing document  270  of  403
+Pre-processing document  271  of  403
+Pre-processing document  272  of  403
+Pre-processing document  273  of  403
+Pre-processing document  274  of  403
+Pre-processing document  275  of  403
+Pre-processing document  276  of  403
+Pre-processing document  277  of  403
+Pre-processing document  278  of  403
+Pre-processing document  279  of  403
+Pre-processing document  280  of  403
+Pre-processing document  281  of  403
+Pre-processing document  282  of  403
+Pre-processing document  283  of  403
+Pre-processing document  284  of  403
+Pre-processing document  285  of  403
+Pre-processing document  286  of  403
+Pre-processing document  287  of  403
+Pre-processing document  288  of  403
+Pre-processing document  289  of  403
+Pre-processing document  290  of  403
+Pre-processing document  291  of  403
+Pre-processing document  292  of  403
+Pre-processing document  293  of  403
+Pre-processing document  294  of  403
+Pre-processing document  295  of  403
+Pre-processing document  296  of  403
+Pre-processing document  297  of  403
+Pre-processing document  298  of  403
+Pre-processing document  299  of  403
+Pre-processing document  300  of  403
+Pre-processing document  301  of  403
+Pre-processing document  302  of  403
+Pre-processing document  303  of  403
+Pre-processing document  304  of  403
+Pre-processing document  305  of  403
+Pre-processing document  306  of  403
+Pre-processing document  307  of  403
+Pre-processing document  308  of  403
+Pre-processing document  309  of  403
+Pre-processing document  310  of  403
+Pre-processing document  311  of  403
+Pre-processing document  312  of  403
+Pre-processing document  313  of  403
+Pre-processing document  314  of  403
+Pre-processing document  315  of  403
+Pre-processing document  316  of  403
+Pre-processing document  317  of  403
+Pre-processing document  318  of  403
+Pre-processing document  319  of  403
+Pre-processing document  320  of  403
+Pre-processing document  321  of  403
+Pre-processing document  322  of  403
+Pre-processing document  323  of  403
+Pre-processing document  324  of  403
+Pre-processing document  325  of  403
+Pre-processing document  326  of  403
+Pre-processing document  327  of  403
+Pre-processing document  328  of  403
+Pre-processing document  329  of  403
+Pre-processing document  330  of  403
+Pre-processing document  331  of  403
+Pre-processing document  332  of  403
+Pre-processing document  333  of  403
+Pre-processing document  334  of  403
+Pre-processing document  335  of  403
+Pre-processing document  336  of  403
+Pre-processing document  337  of  403
+Pre-processing document  338  of  403
+Pre-processing document  339  of  403
+Pre-processing document  340  of  403
+Pre-processing document  341  of  403
+Pre-processing document  342  of  403
+Pre-processing document  343  of  403
+Pre-processing document  344  of  403
+Pre-processing document  345  of  403
+Pre-processing document  346  of  403
+Pre-processing document  347  of  403
+Pre-processing document  348  of  403
+Pre-processing document  349  of  403
+Pre-processing document  350  of  403
+Pre-processing document  351  of  403
+Pre-processing document  352  of  403
+Pre-processing document  353  of  403
+Pre-processing document  354  of  403
+Pre-processing document  355  of  403
+Pre-processing document  356  of  403
+Pre-processing document  357  of  403
+Pre-processing document  358  of  403
+Pre-processing document  359  of  403
+Pre-processing document  360  of  403
+Pre-processing document  361  of  403
+Pre-processing document  362  of  403
+Pre-processing document  363  of  403
+Pre-processing document  364  of  403
+Pre-processing document  365  of  403
+Pre-processing document  366  of  403
+Pre-processing document  367  of  403
+Pre-processing document  368  of  403
+Pre-processing document  369  of  403
+Pre-processing document  370  of  403
+Pre-processing document  371  of  403
+Pre-processing document  372  of  403
+Pre-processing document  373  of  403
+Pre-processing document  374  of  403
+Pre-processing document  375  of  403
+Pre-processing document  376  of  403
+Pre-processing document  377  of  403
+Pre-processing document  378  of  403
+Pre-processing document  379  of  403
+Pre-processing document  380  of  403
+Pre-processing document  381  of  403
+Pre-processing document  382  of  403
+Pre-processing document  383  of  403
+Pre-processing document  384  of  403
+Pre-processing document  385  of  403
+Pre-processing document  386  of  403
+Pre-processing document  387  of  403
+Pre-processing document  388  of  403
+Pre-processing document  389  of  403
+Pre-processing document  390  of  403
+Pre-processing document  391  of  403
+Pre-processing document  392  of  403
+Pre-processing document  393  of  403
+Pre-processing document  394  of  403
+Pre-processing document  395  of  403
+Pre-processing document  396  of  403
+Pre-processing document  397  of  403
+Pre-processing document  398  of  403
+Pre-processing document  399  of  403
+Pre-processing document  400  of  403
+Pre-processing document  401  of  403
+Pre-processing document  402  of  403
+Pre-processing document  403  of  403
+Lemmatization of words is activated...
+Index([u'word', u'pos', u'paper_id'], dtype='object')
+Removing stopwords is activated...
+manual stopwords list:     stop_words
+0   et       
+1   al       
+2   page     
+0   a        
+1   b        
+2   c        
+3   d        
+4   e        
+5   f        
+6   g        
+7   h        
+8   i        
+9   j        
+10  k        
+11  l        
+12  m        
+13  n        
+14  o        
+15  p        
+16  q        
+17  r        
+18  s        
+19  t        
+20  u        
+21  v        
+22  w        
+23  x        
+24  y        
+25  z        
+0   a.       
+1   b.       
+2   c.       
+3   d.       
+4   e.       
+5   f.       
+6   g.       
+7   h.       
+8   i.       
+9   j.       
+10  k.       
+11  l.       
+12  m.       
+13  n.       
+14  o.       
+15  p.       
+16  q.       
+17  r.       
+18  s.       
+19  t.       
+20  u.       
+21  v.       
+22  w.       
+23  x.       
+24  y.       
+25  z.       
+Saving the preprocessed data to "msh.csv"
+--- 4.50286161527 minutes ---
+Making a corpus of the tokenized papers
+Making Trigrams of the corpus
+Training the FastTex embeddings and saving the result in "nips_fasttex.txt"
+window =  5 vectorsize=  1000
+Saving the FastTex model in  nips_fasttex.txt
+--- 1.98379610106 minutes ---
+Checking whether there is an H2O instance running at http://localhost:54321. connected.
+Warning: Your H2O cluster version is too old (5 months and 18 days)! Please download and install the latest version from http://h2o.ai/download/
+--------------------------  ----------------------------------------
+H2O cluster uptime:         4 days 22 hours 37 mins
+H2O cluster timezone:       America/Los_Angeles
+H2O data parsing timezone:  UTC
+H2O cluster version:        3.18.0.8
+H2O cluster version age:    5 months and 18 days !!!
+H2O cluster name:           H2O_from_python_mlamee_squ6mj
+H2O cluster total nodes:    1
+H2O cluster free memory:    2.483 Gb
+H2O cluster total cores:    8
+H2O cluster allowed cores:  8
+H2O cluster status:         locked, healthy
+H2O connection url:         http://localhost:54321
+H2O connection proxy:
+H2O internal security:      False
+H2O API Extensions:         XGBoost, Algos, AutoML, Core V3, Core V4
+Python version:             2.7.13 final
+--------------------------  ----------------------------------------
+Converting data to H2O dataframe.
+Parse progress: [#########################################################] 100%
+Running Kmeans clustering of word embeddings
+kmeans Model Build progress: [############################################] 100%
+Number of clusters used, K:  15
+kmeans prediction progress: [#############################################] 100%
+Results: 
+['Cluster: 0 ,Member counts: 5396 ,Member share: %31.67', 'Cluster: 12 ,Member counts: 2335 ,Member share: %13.70', 'Cluster: 11 ,Member counts: 1519 ,Member share: %8.91', 'Cluster: 5 ,Member counts: 1457 ,Member share: %8.55', 'Cluster: 1 ,Member counts: 1030 ,Member share: %6.04', 'Cluster: 8 ,Member counts: 844 ,Member share: %4.95', 'Cluster: 6 ,Member counts: 751 ,Member share: %4.41', 'Cluster: 13 ,Member counts: 718 ,Member share: %4.21', 'Cluster: 10 ,Member counts: 654 ,Member share: %3.84', 'Cluster: 3 ,Member counts: 592 ,Member share: %3.47', 'Cluster: 4 ,Member counts: 555 ,Member share: %3.26', 'Cluster: 9 ,Member counts: 467 ,Member share: %2.74', 'Cluster: 7 ,Member counts: 457 ,Member share: %2.68', 'Cluster: 14 ,Member counts: 264 ,Member share: %1.55', 'Cluster: 2 ,Member counts: 1 ,Member share: %0.01']
+Generating a pdf Wordcloud diagram "Cluster.pdf" with the top 10 words in each cluster
+SQT  4
+Num  15
+row  4  col  4
+Saving the list of top 10 words for each cluster in "top10words.csv" file
+Cluster
+0     [support, refer, aim, go, energy, lift, lie, bernoulli, svd, think, np]                                                                       
+12    [call, part, bias, one, power, margin, turn, third, avoid, budget, therefore]                                                                 
+11    [data, network, image, task, scale, deep, e.g, way, convolutional, memory, multi]                                                             
+5     [learn, learning, process, neural, system, machine, theory, bayesian, research, statistic, icml]                                              
+1     [approach, propose, work, analysis, provide, apply, paper, new, general, present, setting]                                                    
+8     [set, value, feature, point, vector, example, input, different, label, layer, output]                                                         
+6     [model, distribution, parameter, base, variable, state, estimate, inference, mean, gaussian, structure]                                       
+13    [let, denote, xi, i.e, max, xt, min, eq, yi, exp, sum]                                                                                        
+10    [matrix, random, graph, space, kernel, rank, map, factor, cluster, sparse, component]                                                         
+3     [bound, give, probability, case, define, theorem, consider, term, follow, order, note]                                                        
+4     [section, approximation, information, prediction, solution, application, observation, classification, representation, estimation, computation]
+9     [algorithm, method, sample, step, compute, gradient, stochastic, iteration, update, approximate, efficient]                                   
+7     [use, result, show, time, number, large, error, figure, low, see, test]                                                                       
+14    [function, problem, optimization, linear, optimal, non, class, convex, loss, convergence, solve]                                              
+2     [log]                                                                                                                                         
+dtype: object
+Generating a new corpus with Trigrams
+Calculating the share of each word-cluster in each paper. Saving the results in "pap_cluster_share.csv". The top 30 rows are shown in following. 
+          Cluster  share_pct
+paper_id                    
+5633      11      21.3072   
+5633      6       18.1963   
+5633      7       16.4927   
+5633      8       10.6658   
+5633      10      6.0207    
+5633      5       5.4110    
+5633      9       4.6521    
+5633      4       4.5574    
+5633      1       4.3207    
+5633      14      4.2308    
+5633      3       3.0766    
+5633      13      0.4619    
+5633      12      0.4410    
+5633      0       0.1659    
+5634      7       21.4890   
+5634      11      20.6715   
+5634      6       17.5067   
+5634      8       10.5262   
+5634      5       5.5827    
+5634      9       5.4654    
+5634      1       4.5873    
+5634      4       2.8064    
+5634      2       2.4744    
+5634      14      2.3916    
+5634      10      2.3241    
+5634      13      1.8018    
+5634      3       1.6554    
+5634      12      0.4882    
+5634      0       0.2293    
+5635      6       25.9093   
+Another approach for clustering papers: Generating paper embedding vectors using the PCA analysis.
+Running Kmeans clustering on paper embedings and automatically finding the optimal number of clusters in the provided range.
+Parse progress: [#########################################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+kmeans Model Build progress: [############################################] 100%
+Number of topics K  12
+kmeans prediction progress: [#############################################] 100%
+Results of paper clustering: 
+['Cluster: 11 ,Member counts: 86 ,Member share: %21.39', 'Cluster: 10 ,Member counts: 71 ,Member share: %17.66', 'Cluster: 0 ,Member counts: 41 ,Member share: %10.20', 'Cluster: 6 ,Member counts: 39 ,Member share: %9.70', 'Cluster: 2 ,Member counts: 35 ,Member share: %8.71', 'Cluster: 8 ,Member counts: 29 ,Member share: %7.21', 'Cluster: 1 ,Member counts: 25 ,Member share: %6.22', 'Cluster: 5 ,Member counts: 20 ,Member share: %4.98', 'Cluster: 7 ,Member counts: 18 ,Member share: %4.48', 'Cluster: 9 ,Member counts: 17 ,Member share: %4.23', 'Cluster: 4 ,Member counts: 17 ,Member share: %4.23', 'Cluster: 3 ,Member counts: 4 ,Member share: %1.00']
+Joining the results to the original data file and saving the results in "Paper_Embedding_Cluster_PCA.csv" file. This file contains paper embeddings, associated clusters, titles and abstracts.
+Example: Top 20 rows of saved dataframe
+     Cluster_PCA  \
+269  0             
+379  0             
+39   0             
+376  0             
+208  0             
+45   0             
+301  0             
+202  0             
+51   0             
+313  0             
+60   0             
+62   0             
+360  0             
+174  0             
+222  0             
+316  0             
+161  0             
+160  0             
+159  0             
+157  0             
+
+                                                                                                                 Title  
+269  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks                                     
+379  Preconditioned Spectral Descent for Deep Learning                                                                  
+39   Spectral Representations for Convolutional Neural Networks                                                         
+376  The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors  
+208  Character-level Convolutional Networks for Text Classification                                                     
+45   Attention-Based Models for Speech Recognition                                                                      
+301  Learning to Segment Object Candidates                                                                              
+202  Enforcing balance allows local supervised learning in spiking recurrent networks                                   
+51   A Reduced-Dimension fMRI Shared Response Model                                                                     
+313  Grammar as a Foreign Language                                                                                      
+60   Visalogy: Answering Visual Analogy Questions                                                                       
+62   Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data                                
+360  Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation                                            
+174  Natural Neural Networks                                                                                            
+222  Tensorizing Neural Networks                                                                                        
+316  Skip-Thought Vectors                                                                                               
+161  Path-SGD: Path-Normalized Optimization in Deep Neural Networks                                                     
+160  Training Very Deep Networks                                                                                        
+159  Learning to Linearize Under Uncertainty                                                                            
+157  Efficient and Robust Automated Machine Learning                                                                    
+genrating a 2D TSNE visualization of paper clusters, "TSNE_papers_PCA2.pdf". Cluster IDs are used as data point labels.
+Done!
+H2O session _sid_8ef4 closed.
