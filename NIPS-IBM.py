@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# ### Data challenge for IBM
+# ### NLP Data Challenge
 # Please email your questions to mehdi.lamee@gmail.com
 # Thanks.
 
